@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morneyReactWeb/static/css/main.0f917ae3.chunk.css",
+    "main.js": "/morneyReactWeb/static/js/main.6d4cc183.chunk.js",
+    "main.js.map": "/morneyReactWeb/static/js/main.6d4cc183.chunk.js.map",
+    "runtime-main.js": "/morneyReactWeb/static/js/runtime-main.8d4cac5c.js",
+    "runtime-main.js.map": "/morneyReactWeb/static/js/runtime-main.8d4cac5c.js.map",
+    "static/js/2.3cc68079.chunk.js": "/morneyReactWeb/static/js/2.3cc68079.chunk.js",
+    "static/js/2.3cc68079.chunk.js.map": "/morneyReactWeb/static/js/2.3cc68079.chunk.js.map",
+    "index.html": "/morneyReactWeb/index.html",
+    "precache-manifest.1e5ffe1890248053bdba8aad071adf57.js": "/morneyReactWeb/precache-manifest.1e5ffe1890248053bdba8aad071adf57.js",
+    "service-worker.js": "/morneyReactWeb/service-worker.js",
+    "static/css/main.0f917ae3.chunk.css.map": "/morneyReactWeb/static/css/main.0f917ae3.chunk.css.map",
+    "static/js/2.3cc68079.chunk.js.LICENSE.txt": "/morneyReactWeb/static/js/2.3cc68079.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d4cac5c.js",
+    "static/js/2.3cc68079.chunk.js",
+    "static/css/main.0f917ae3.chunk.css",
+    "static/js/main.6d4cc183.chunk.js"
+  ]
+}
